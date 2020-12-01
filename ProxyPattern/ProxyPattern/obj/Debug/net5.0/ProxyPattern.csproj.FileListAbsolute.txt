@@ -1,0 +1,16 @@
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\bin\Debug\net5.0\ProxyPattern.exe
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\bin\Debug\net5.0\ProxyPattern.deps.json
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\bin\Debug\net5.0\ProxyPattern.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\bin\Debug\net5.0\ProxyPattern.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\bin\Debug\net5.0\ProxyPattern.dll
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\bin\Debug\net5.0\ref\ProxyPattern.dll
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\bin\Debug\net5.0\ProxyPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\obj\Debug\net5.0\ProxyPattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\obj\Debug\net5.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\obj\Debug\net5.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\obj\Debug\net5.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\obj\Debug\net5.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\obj\Debug\net5.0\ProxyPattern.dll
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\obj\Debug\net5.0\ref\ProxyPattern.dll
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\obj\Debug\net5.0\ProxyPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\ProxyPattern\ProxyPattern\obj\Debug\net5.0\ProxyPattern.genruntimeconfig.cache
