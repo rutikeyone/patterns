@@ -1,0 +1,16 @@
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.exe
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.deps.json
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.dll
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\bin\Debug\net5.0\ref\StatePattern.dll
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.pdb
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.dll
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\obj\Debug\net5.0\ref\StatePattern.dll
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.pdb
+C:\Users\RuTiKeyOne\source\repos\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.genruntimeconfig.cache
