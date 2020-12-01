@@ -1,0 +1,16 @@
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.exe
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.deps.json
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.dll
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ref\ObserverPattern.dll
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.dll
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ref\ObserverPattern.dll
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.genruntimeconfig.cache
