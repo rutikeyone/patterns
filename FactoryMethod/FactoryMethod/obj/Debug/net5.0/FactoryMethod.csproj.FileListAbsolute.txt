@@ -1,0 +1,16 @@
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.exe
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\bin\Debug\net5.0\ref\FactoryMethod.dll
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+C:\Users\RuTiKeyOne\source\repos\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.genruntimeconfig.cache
