@@ -1,0 +1,7 @@
+C:\Users\RuTiKeyOne\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\Users\RuTiKeyOne\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Users\RuTiKeyOne\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+C:\Users\RuTiKeyOne\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
