@@ -1,0 +1,16 @@
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\bin\Debug\net5.0\VisitorPattern.exe
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\bin\Debug\net5.0\VisitorPattern.deps.json
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\bin\Debug\net5.0\VisitorPattern.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\bin\Debug\net5.0\VisitorPattern.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\bin\Debug\net5.0\VisitorPattern.dll
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\bin\Debug\net5.0\ref\VisitorPattern.dll
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\bin\Debug\net5.0\VisitorPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\obj\Debug\net5.0\VisitorPattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\obj\Debug\net5.0\VisitorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\obj\Debug\net5.0\VisitorPattern.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\obj\Debug\net5.0\VisitorPattern.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\obj\Debug\net5.0\VisitorPattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\obj\Debug\net5.0\VisitorPattern.dll
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\obj\Debug\net5.0\ref\VisitorPattern.dll
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\obj\Debug\net5.0\VisitorPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\VisitorPattern\VisitorPattern\obj\Debug\net5.0\VisitorPattern.genruntimeconfig.cache
