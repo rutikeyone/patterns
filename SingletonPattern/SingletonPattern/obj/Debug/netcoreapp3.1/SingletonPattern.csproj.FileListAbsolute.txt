@@ -1,0 +1,13 @@
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.exe
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.deps.json
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.dll
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.dll
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.genruntimeconfig.cache
