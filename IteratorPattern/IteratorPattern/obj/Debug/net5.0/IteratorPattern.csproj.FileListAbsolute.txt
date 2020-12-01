@@ -1,0 +1,16 @@
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\obj\Debug\net5.0\IteratorPattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\obj\Debug\net5.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\obj\Debug\net5.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\obj\Debug\net5.0\IteratorPattern.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\obj\Debug\net5.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\bin\Debug\net5.0\IteratorPattern.exe
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\bin\Debug\net5.0\IteratorPattern.deps.json
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\bin\Debug\net5.0\IteratorPattern.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\bin\Debug\net5.0\IteratorPattern.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\bin\Debug\net5.0\IteratorPattern.dll
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\bin\Debug\net5.0\ref\IteratorPattern.dll
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\bin\Debug\net5.0\IteratorPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\obj\Debug\net5.0\IteratorPattern.dll
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\obj\Debug\net5.0\ref\IteratorPattern.dll
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\obj\Debug\net5.0\IteratorPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\IteratorPattern\IteratorPattern\obj\Debug\net5.0\IteratorPattern.genruntimeconfig.cache
