@@ -1,0 +1,16 @@
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\obj\Debug\net5.0\CoRPattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\obj\Debug\net5.0\CoRPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\obj\Debug\net5.0\CoRPattern.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\obj\Debug\net5.0\CoRPattern.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\obj\Debug\net5.0\CoRPattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\bin\Debug\net5.0\CoRPattern.exe
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\bin\Debug\net5.0\CoRPattern.deps.json
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\bin\Debug\net5.0\CoRPattern.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\bin\Debug\net5.0\CoRPattern.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\bin\Debug\net5.0\CoRPattern.dll
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\bin\Debug\net5.0\ref\CoRPattern.dll
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\bin\Debug\net5.0\CoRPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\obj\Debug\net5.0\CoRPattern.dll
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\obj\Debug\net5.0\ref\CoRPattern.dll
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\obj\Debug\net5.0\CoRPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\CoRPattern\CoRPattern\obj\Debug\net5.0\CoRPattern.genruntimeconfig.cache
