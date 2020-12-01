@@ -1,0 +1,16 @@
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.exe
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.deps.json
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.dll
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\bin\Debug\net5.0\ref\CompositePattern.dll
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.pdb
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.dll
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\obj\Debug\net5.0\ref\CompositePattern.dll
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.pdb
+C:\Users\RuTiKeyOne\source\repos\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.genruntimeconfig.cache
