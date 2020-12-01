@@ -1,0 +1,7 @@
+C:\Users\RuTiKeyOne\source\repos\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+C:\Users\RuTiKeyOne\source\repos\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.exe
+C:\Users\RuTiKeyOne\source\repos\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.pdb
+C:\Users\RuTiKeyOne\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.exe
+C:\Users\RuTiKeyOne\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.pdb
