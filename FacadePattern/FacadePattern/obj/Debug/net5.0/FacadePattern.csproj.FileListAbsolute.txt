@@ -1,0 +1,16 @@
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\bin\Debug\net5.0\FacadePattern.exe
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\bin\Debug\net5.0\FacadePattern.deps.json
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\bin\Debug\net5.0\FacadePattern.runtimeconfig.json
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\bin\Debug\net5.0\FacadePattern.runtimeconfig.dev.json
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\bin\Debug\net5.0\FacadePattern.dll
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\bin\Debug\net5.0\ref\FacadePattern.dll
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\bin\Debug\net5.0\FacadePattern.pdb
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\obj\Debug\net5.0\FacadePattern.csprojAssemblyReference.cache
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\obj\Debug\net5.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\obj\Debug\net5.0\FacadePattern.AssemblyInfoInputs.cache
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\obj\Debug\net5.0\FacadePattern.AssemblyInfo.cs
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\obj\Debug\net5.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\obj\Debug\net5.0\FacadePattern.dll
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\obj\Debug\net5.0\ref\FacadePattern.dll
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\obj\Debug\net5.0\FacadePattern.pdb
+C:\Users\RuTiKeyOne\source\repos\FacadePattern\FacadePattern\obj\Debug\net5.0\FacadePattern.genruntimeconfig.cache
