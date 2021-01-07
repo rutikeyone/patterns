@@ -1,23 +1,24 @@
-# Примеры использования паттернов 
-Описания конкретного паттерна находится в Program.cs
+# Examples of using patterns
 
-Представлены паттерны:
+You can find more information in the Program.cs
 
-1. Стратегия
-2. Шаблонный метод
-3. Посредник
-4. Итератор
-5. Наблюдатель
-6. Посетитель
-7. Команда
-8. Состояние
-9. Цепочка обязанностей
-10. Одиночка
-11. Абстрактная фабрика
-12. Фабричный метод
-13. Строитель
-14. Адаптер
-15. Фасад
-16. Декоратор
-17. Компоновщик
-18. Заместитель
+This repository contains pattern:
+
+1. Strategy
+2. Template method
+3. Mediator
+4. Iterator
+5. Observer
+6. Visitor
+7. Command
+8. State
+9. Chain of responsibilities
+10. Singleton
+11. Abstract factory
+12. Factory method
+13. Builder
+14. Adapter
+15. Facade
+16. Decorator
+17. Composite
+18. Proxy
