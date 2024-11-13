@@ -1,17 +1,16 @@
-# Examples of using patterns
+# Patterns
 
-You can find more information in the Program.cs
-
+## Description
 This repository contains pattern:
 
-1. Strategy
-2. Template method
-3. Mediator
-4. Iterator
-5. Observer
-6. Visitor
-7. Command
-8. State
+* `Strategy`;
+* `Template method`;
+* `Mediator`;
+* `Iterator`;
+* `Observer`;
+* `Visitor`;
+* `Command`;
+* `State`;
 9. Chain of responsibilities
 10. Singleton
 11. Abstract factory
